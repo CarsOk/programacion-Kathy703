@@ -8,13 +8,13 @@
 
 ´´
 Sub ejemplo()
-  MsgBox "hola mundo"
+   MsgBox "hola mundo"
 End Sub
 ´´
 ## Ejercicio en Dartpad
 
 ´´
 void main() {
-  print("hola mundo");
+   print("hola mundo");
 }
 ´´
