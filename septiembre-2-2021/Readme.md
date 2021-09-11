@@ -6,20 +6,19 @@
 
 ## Ejercicios en excel
 
-´´´
+'''
 Sub ejemplo()
 
   MsgBox "hola mundo"
 
 End Sub
-´´´
+'''
 
 ## Ejercicio en Dartpad
 
-´´´
+
 void main() {
 
   print("hola mundo");
 
 }
-´´´
