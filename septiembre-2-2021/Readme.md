@@ -39,6 +39,3 @@ Sub ejemplo()
 
 End Sub
 ```
-# Diagrama de flujo
-
-<img src = "img/imagen.jpg" width "200">
