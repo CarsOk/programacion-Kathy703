@@ -26,7 +26,7 @@ void main() {
 # Actividad de desarrollo
 
  Pude aprender  como hacer que salgan 3 mensajes
-  en visual basic no fue tan complicado.
+  en visual basic, no fue tan complicado.
 
 ## Ejercicio en excel
 
