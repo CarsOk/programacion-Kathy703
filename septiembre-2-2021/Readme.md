@@ -34,7 +34,7 @@ void main() {
 Sub ejemplo()
 
  MsgBox "hola profesor"
- MsgBox "no estubo tan dificil"
+ MsgBox "no estuvo tan dificil"
  MsgBox "el ejercicio"
 
 End Sub
