@@ -41,4 +41,4 @@ End Sub
 # Diagrama de flujo
 
 
-<img src="images.jpg">
+<img src="imagen.jpg">
