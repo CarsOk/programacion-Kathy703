@@ -40,5 +40,4 @@ End Sub
 ```
 # Diagrama de flujo
 
-
-<img src="imagen.jpg">
+![img](img/imagen.jpg)
