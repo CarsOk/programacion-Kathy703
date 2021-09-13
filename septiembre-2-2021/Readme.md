@@ -40,4 +40,4 @@ End Sub
 ```
 # Diagrama de flujo
 
- <img src="img/imagen.jpg"width="700">
+![diagrama de flujo](img/2021-09-12-17-02-41-762.jpg)
