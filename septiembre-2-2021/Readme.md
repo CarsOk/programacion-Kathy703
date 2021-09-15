@@ -40,4 +40,4 @@ End Sub
 ```
 # Diagrama de flujo
 
-<img src="img/diagrama-flujo.jpg" width="300px">
+ ![](img/diagrama-flujo.jpg){width='420px'}
