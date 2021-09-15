@@ -38,7 +38,6 @@ Sub ejemplo()
 
 End Sub
 ```
-# Diagrama de flujo
-
-
+# Diagrama de fluj
+<
  <imagen-img src="image-img/diagrama.jpg" width="300">
