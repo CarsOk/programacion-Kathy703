@@ -38,3 +38,6 @@ Sub ejemplo()
 
 End Sub
 ```
+# Diagrama de flujo
+
+![img](diagrama.jpg)
