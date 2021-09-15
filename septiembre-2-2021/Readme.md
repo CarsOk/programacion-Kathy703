@@ -40,4 +40,4 @@ End Sub
 ```
 # Diagrama de flujo
 
-![ejercicio](img/diagrama.jpg)
+![ejercicio](https://photos.google.com/photo/AF1QipONfE0xa8DWj0TtHOwUUHI9OyOWO6yd5Q6eb0bP)
