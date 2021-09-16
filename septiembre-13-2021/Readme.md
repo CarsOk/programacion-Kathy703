@@ -52,12 +52,14 @@ Sub promedio()
    v4 = InputBox("cuarta nota")
    t5 = InputBox("quinta nota")
    x = Int(s1) + Int(f2) + Int(r3) + Int(v4) + Int(t5)
-   MsgBox "el promedio es " & x / 5
-       x = Int(InputBox("escriba resultado"))
-    If (x > 6) Then
-        MsgBox " el estudiante saco " & x & " aprobo"
+    MsgBox "el promedio es " & x / 5
+
+       y = x / 5
+
+    If (y > 6) Then
+        MsgBox " el estudiante saco " & y & " aprobo"
     Else
-        MsgBox "el estudiante saco " & x & " reprobo"
+        MsgBox "el estudiante saco " & y & " reprobo"
      End If
 
 End Sub
