@@ -50,3 +50,6 @@ Sub promedio()
   MsgBox "el promedio es " & m / 5
 End Sub
 ```
+## Diagrama de flujo
+
+<img src ="img-ejercicio-2/diagrama-1.jpg" width ="350">
