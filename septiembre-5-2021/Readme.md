@@ -52,4 +52,4 @@ End Sub
 ```
 ## Diagrama de flujo
 
-<img src ="img-ejercicio-2/diagrama-1.jpg" width ="350">
+<img src ="img-ejercicio-2/diagrama-flujo-2.jpg" width ="350">
