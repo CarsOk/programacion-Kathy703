@@ -22,3 +22,5 @@ End Sub
 ```
 
 ## formulario
+
+<img src ="img-ejercicio-4/diagrama-de-flujo-4.jpg" width ="350">
