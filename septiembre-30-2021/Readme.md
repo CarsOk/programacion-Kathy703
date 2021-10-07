@@ -15,7 +15,9 @@ Un ciclo es una estructura que se repite las veces que quiera el usuario.
 
 # Ejercicio de desarrollo
 
-## Ejercicio en excel
+## Ejercicio en excel 1
+
+En este ejercicico pusimos en practica como crear un codigo que sume algunos numeros.
 
 ```
 Sub ejercicio()
@@ -30,3 +32,31 @@ Sub ejercicio()
 End Sub
 ```
 <img src ="img-ejercicio-5/suma.jpg" width ="350">
+
+## Ejercicio en excel 2
+
+En este ejercicio aprendimos a desplazar una palabra en "L" por la hoja de excel.
+
+```
+Sub ejercicio()
+
+   n1 = "katerin"
+
+    For i = 3 To 12
+       mov.Cells(9, i - 1) = ""
+       mov.Cells(9, i) = n1
+       MsgBox "listo"
+
+    Next i
+
+      For i = 10 To 19
+        mov.Cells(i - 1, 12) = ""
+        mov.Cells(i, 12) = n1
+        MsgBox "listo"
+
+      Next i
+        mov.Cells(i - 1, 12) = ""
+
+End Sub
+```
+<img src ="img-ejercicio-5/nombre.jpg" width ="350">
