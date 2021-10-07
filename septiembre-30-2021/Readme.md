@@ -50,6 +50,7 @@ Sub ejercicio()
     Next i
 
       For i = 10 To 19
+
         mov.Cells(i - 1, 12) = ""
         mov.Cells(i, 12) = n1
         MsgBox "listo"
