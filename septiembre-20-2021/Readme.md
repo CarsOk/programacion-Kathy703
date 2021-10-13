@@ -24,3 +24,19 @@ End Sub
 ## formulario
 
 <img src ="img-ejercicio-4/diagrama-de-flujo-4.jpg" width ="350">
+
+## Funcion mis notas
+
+```
+Function misnotas(a, e, i, o, u)
+
+     x = (a + e + i + o + u) / 5
+
+    If (x > 7) Then
+     MsgBox "el estudiante" & y & " aprobo"
+    Else
+    MsgBox "el estudiante" & y & " reprobo"
+
+
+End Function
+```
