@@ -33,10 +33,9 @@ Function misnotas(a, e, i, o, u)
      x = (a + e + i + o + u) / 5
 
     If (x > 7) Then
-     MsgBox "el estudiante" & y & " aprobo"
+     misnotas = "el estudiante aprobo con" & x
     Else
-    MsgBox "el estudiante" & y & " reprobo"
-
-
+     misnotas = "el estudiante reprobo con" & x
+    End If
 End Function
 ```
