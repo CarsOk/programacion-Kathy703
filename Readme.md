@@ -9,3 +9,5 @@
 - [Septiembre 20 del 2021](septiembre-20-2021)
 
 - [Septiembre 30 del 2021](septiembre-30-2021)
+
+- [Octubre 25 del 2021](octubre-25-2021)
