@@ -17,4 +17,4 @@ Function area(b, h)
 
 End Function
 ```
-<img src ="ing-ejercicio-6/area.jpg" width ="350">
+<img src ="img-ejercicio-6/area.jpg" width ="350">
