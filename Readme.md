@@ -12,4 +12,4 @@
 
 - [Octubre 25 del 2021](octubre-25-2021)
 
-- [Diciembre 5 del 2021])(diciembre-5-2021)
+- [Diciembre 5 del 2021](diciembre-5-2021)
